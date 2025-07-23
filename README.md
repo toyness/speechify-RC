@@ -18,14 +18,14 @@ The project's goal is to implement an LRU Cache Provider, an SSML Parser, and a 
 
 ```bash
 # Installs dependencies
-install python follow steps from offical website to do so https://www.python.org/downloads/
+install python, follow steps from offical website to do so https://www.python.org/downloads/
 
 run python -version, to see if it install 
 
 # Runs tests
-Go to the project folder, and open command prompt the run 'python Speechify.py'
+Go to the project folder, and open command prompt, then run 'python Speechify.py'
 
-you always change the XML in the ssml_string to fit in your need.
+you may always change the XML in the ssml_string to fit in your need.
 ```
 
 ### Time to Implement
